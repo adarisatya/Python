@@ -73,7 +73,7 @@ print(type(passed), type(rate), type(ok), type(title), missing)
 
 # Math and Real Time Example
 
-# Integer is returned for variable 
+# Integer and Float is returned for variable 
 
 isinstance = 84
 var = 42
